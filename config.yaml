@@ -1,0 +1,3 @@
+freqEEG: 250
+freeqACC: 50
+axes_names: ["x", "y", "z"]
